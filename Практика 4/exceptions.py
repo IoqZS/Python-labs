@@ -1,0 +1,2 @@
+class MileageError(Exception):
+    pass
